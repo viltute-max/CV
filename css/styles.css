@@ -13,7 +13,7 @@ body {
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
-.col-12 col-sm-8 col-md-9 col-lg-10 my-3 header-content {
+.h1, h5 {
 	background-color: #f8f8fc;
 }
 
