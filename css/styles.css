@@ -13,6 +13,10 @@ body {
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
+.h1, h5 {
+	color: #ffffff;
+}
+
 .fw-bolder, .fst-italic tagline {
 	color: #ffffff;
 }
