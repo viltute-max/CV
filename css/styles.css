@@ -6,8 +6,8 @@
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #202030;
+	font-family: "Times New Roman" Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #000000;
 	background-color: #f8f8fc;
 }
 
@@ -22,7 +22,7 @@ body {
 }
 
 .resume-aside {
-	background-color: #d1731b;
+	background-color: #ff7d04;
 }
 
 /* Styles for lists in the document */
