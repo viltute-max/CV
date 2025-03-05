@@ -21,6 +21,10 @@ body {
 	background-color: #f8f8fc;
 }
 
+.col-12 col-sm-8 col-md-9 col-lg-10 my-3 header-content  {
+	background-color: #f8f8fc;
+}
+
 .resume-header {
     background-color: #811212;
 }
