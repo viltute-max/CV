@@ -11,8 +11,9 @@ body {
 	background-color: #f8f8fc;
 }
 
-/* Styles for custom classes in the document. (There are more, try to find them out!) */
+.pipi { color: #db973d;
 
+   }
 
 .newcolor, .fst-italic{
 	color: #ffffff;
